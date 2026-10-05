@@ -1,10 +1,11 @@
-# Your Name, Portfolio
+# Mahesh Babu, Portfolio
 
-> Personal portfolio, blog, and projects. Built with the nextjs-portfolio-starter template.
+> Mahesh Babu is a 3rd-year BTech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. His portfolio showcases AI/ML projects, software projects, technical learning, and real-world problem-solving concepts.
 
 ## Pages
 - / : Home
 - /about : About
+- /experience : Experience
 - /projects : Projects
 - /blogs : Blog
 - /contact : Contact

@@ -4,28 +4,43 @@ import GetInTouchButton from "@/components/Common/GetInTouchButton";
 import { BackgroundBeams } from "@/components/ui/background-beams";
 import { siteConfig } from "@/config/site.config";
 
-const SKILLS = ["React", "Next.js", "TypeScript", "Node.js", "Postgres", "Redis"];
+const SKILLS = [
+  "Python",
+  "Machine Learning",
+  "Deep Learning",
+  "NLP",
+  "TensorFlow / Keras",
+  "Scikit-learn",
+  "Pandas",
+  "NumPy",
+  "Streamlit",
+  "Java",
+  "SQL",
+  "JavaScript",
+  "HTML & CSS",
+  "Git & GitHub",
+];
 
 const SECTIONS = [
   {
     title: "Who I Am",
-    content: siteConfig.bio,
+    content: `I am Mahesh Babu, a 3rd-year BTech student specializing in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning.`,
   },
   {
-    title: "What I Do",
-    content: `${siteConfig.name} is a ${siteConfig.role}. This is placeholder copy. Edit it in src/components/AboutPage.tsx to describe the work you do and the products you build.`,
+    title: "What I Do & What I'm Learning",
+    content: `My technical journey is centered around understanding how software and intelligent systems can solve practical problems. Rather than only studying theory, I enjoy learning concepts by building them. My current focus includes Python, Machine Learning, Deep Learning, Natural Language Processing, SQL, Java, modern web development, Git, and AI application development.`,
   },
   {
-    title: "My Journey",
-    content: `Add your story here. Summarize the roles, projects, and milestones that shaped how you build today. This is placeholder text you can replace with your own journey.`,
+    title: "Why AI & Machine Learning",
+    content: `I have a particular interest in Machine Learning because it combines programming, data, mathematics, and problem solving. I am passionate about exploring classification, prediction, NLP, and intelligent assistants. Alongside AI/ML, I build web interfaces so my models can become usable, accessible applications rather than remaining isolated experiments.`,
   },
   {
-    title: "Thesis",
-    content: `Share what you believe about your craft and where things are heading. This is placeholder copy. Replace it with your own point of view.`,
+    title: "Real-World Focus: Civic Tech & Problem Solving",
+    content: `I enjoy building projects around real-world needs. One of my flagship initiatives is Village Voice — a smart complaint and resolution platform designed to help citizens report local civic issues (roads, water, electricity) while using AI to automatically categorize, route, and organize complaints efficiently.`,
   },
   {
-    title: "Beyond Code",
-    content: `A line or two about what you enjoy outside of work. Hobbies, interests, and anything that makes you you.`,
+    title: "Goals & Direction",
+    content: `I am currently focused on strengthening my core computer science fundamentals, building meaningful AI/ML projects, participating in hackathons, and preparing for future internships and opportunities in software engineering, AI, and Machine Learning roles.`,
   },
 ];
 

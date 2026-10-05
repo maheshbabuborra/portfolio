@@ -1,7 +1,7 @@
 {
-  "name": "Your Name",
-  "short_name": "Portfolio",
-  "description": "Personal portfolio, blog, and projects.",
+  "name": "Mahesh Babu | AI & ML Portfolio",
+  "short_name": "Mahesh Babu",
+  "description": "Portfolio of Mahesh Babu, a CSE (AI & ML) student building practical AI, Machine Learning, Deep Learning, and software projects.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
